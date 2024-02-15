@@ -35,3 +35,9 @@
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 ا
+<h2>📘 Currently Learning</h2>
+<h4>
+🤖 Currently, I'm delving into Artificial Intelligence, exploring various subfields such as Machine Learning, Deep Learning, Natural Language Processing (NLP), and Machine Vision.
+
+⚙️ Beyond AI, I'm also expanding my skills in front-end development with React JS.
+<h4>
