@@ -11,6 +11,6 @@
 
 🤖 Currently, I'm diving deep into the realm of Artificial Intelligence, expanding my knowledge and skills in this exciting field.
 
-⚙️ Beyond Python, I'm proficient in HTML, CSS, and JavaScript, and I'm eager to add React to my skillset.
+⚙️ Beyond Python, I'm proficient in HTML, CSS, and JavaScript, and I'm eager to add React framework to my skillset.
 
 🌟 Let's connect and collaborate on interesting projects!</h4>
