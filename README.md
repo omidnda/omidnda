@@ -5,7 +5,7 @@
 <h2>
 👋 Hi there! I'm Omid.
 </h2>
-<h4>🎓 I graduated with a degree in Industrial Engineering and transitioned into the world of programming three years ago.
+<h4>🎓 I graduated with a degree in Industrial Engineering.
 <br><br>
 💻 My passion lies in Python programming, and I'm particularly skilled in using the Django framework.
 <br><br>
