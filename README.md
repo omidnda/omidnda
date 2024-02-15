@@ -4,8 +4,8 @@
 
 <h2>
 👋 Hi there! I'm Omid.
-
-🎓 I graduated with a degree in Industrial Engineering and transitioned into the world of programming three years ago.
+</h2>
+<h4>🎓 I graduated with a degree in Industrial Engineering and transitioned into the world of programming three years ago.
 
 💻 My passion lies in Python programming, and I'm particularly skilled in using the Django framework.
 
@@ -13,5 +13,4 @@
 
 ⚙️ Beyond Python, I'm proficient in HTML, CSS, and JavaScript, and I'm eager to add React to my skillset.
 
-🌟 Let's connect and collaborate on interesting projects!
-</h2>
+🌟 Let's connect and collaborate on interesting projects!</h4>
