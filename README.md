@@ -15,7 +15,7 @@
 <br><br><br>
 🌟 Let's connect and collaborate on interesting projects!</h4>
 
-<h2>Here's the list of tools I use:</h2>
+<h2>list of tools I use:</h2>
 
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
